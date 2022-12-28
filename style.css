@@ -1,0 +1,99 @@
+.heading{
+    color: forestgreen;
+  }
+  td{
+    border-radius: 10px;
+      width: 1vw;
+      height: 3vh;
+      font-size: small;
+      
+  }
+  
+  
+  
+  .noborder{
+      position: relative;
+      border: none;
+  }
+  .align{
+      position: relative;
+      right: -560px;
+  }
+  
+  
+  
+      
+  
+  .zoom {
+      color: blue;
+    
+      background-color:#f3e8fd;
+      transition: transform .1s; 
+      width: 30px;
+      height: 1px;
+      
+    }
+    
+    .zoom:hover {
+      transform: scale(1.5); 
+    }
+    .zoom2 {
+      color: black;
+  
+      background-color: #d8f8ff;
+      transition: transform .1s; 
+      width: 30px;
+      height: 1px;
+      
+    }
+    
+    .zoom2:hover {
+      transform: scale(1.5); 
+    }
+    .zoom3 {
+      
+      
+      color: red;
+     
+      background-color: #ffe7e7;
+      transition: transform .1s; 
+      width: 30px;
+      height: 1px;
+      
+    }
+    
+    .zoom3:hover {
+      transform: scale(1.5); 
+    }
+    .zoom4 {
+      
+      
+      color: rgb(red, green, blue);
+     
+      background-color: #fef7e0;
+      transition: transform .1s; 
+      width: 30px;
+      height: 1px;
+      
+    }
+    
+    .zoom4:hover {
+      transform: scale(1.5); 
+    }
+    .zoom5 {
+      
+      
+      color: red;
+     
+      background-color: #ffe6d4;
+      transition: transform .1s; 
+      width: 30px;
+      height: 1px;
+      
+    }
+    
+    .zoom5:hover {
+      transform: scale(1.2); 
+    }
+  
+  
